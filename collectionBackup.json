@@ -1,0 +1,54 @@
+{
+  "collection": [
+    {
+      "Name": "Grindhouse",
+      "Year": "2006",
+      "Pict": "https://www.allocine.fr/film/fichefilm_gen_cfilm=126531.html",
+      "Link": "https://www.bing.com/videos/search?q=grindhouse+film&&view=detail&mid=9DF564A3F1069BBA2F109DF564A3F1069BBA2F10&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dgrindhouse%2Bfilm%26FORM%3DHDRSC4",
+      "Actors": ["Kurt Russel", "Zoë Bell", "Rosario Dawson"],
+      "Synopsis": "Un diptyque déjanté, hommage aux films d'exploitation et aux doubles-programmes des années 70, composé de Grind House - 1ère séance : Deathproof de Quentin Tarantino et Grind House - 2ème séance : Planet Terror de Robert Rodriguez. Le film est sorti en une seule partie aux Etats-Unis, au Canada, en Angleterre et en Australie, et en deux parties dans les pays non-anglophones.",
+      "Genre": "Epouvante",
+      "Realisator": "Quentin Tarantino"
+    },
+    {
+      "Name": "Django Unchained",
+      "Year": "2013",
+      "Pict": "https://www.imdb.com/title/tt1853728/mediaviewer/rm3036771328/?ref_=tt_ov_i",
+      "Link": "https://www.imdb.com/video/vi2291574553/?playlistId=tt1853728&ref_=tt_pr_ov_vi",
+      "Actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+      "Synopsis": "Avec l'aide d'un chasseur de primes allemand, un esclave affranchi tente de sauver sa femme du violent propriétaire d'une plantation du Mississippi.",
+      "Genre": "Western",
+      "Realisator": "Quentin Tarantino"
+    },
+    {
+      "Name": "Dogma",
+      "Year": "2000",
+      "Pict": "https://www.imdb.com/title/tt0120655/mediaviewer/rm3781231104/?ref_=tt_ov_i",
+      "Link": "https://www.imdb.com/video/vi1057144345/?playlistId=tt0120655&ref_=tt_ov_vi",
+      "Actors": ["Ben Afleck", "Matt Damon", "Linda Fiorentino"],
+      "Synopsis": "Une employée de clinique d'avortement est choisie pour sauver l'humanité de deux anges déchus, essayant d'exploiter une faille et de rentrer au Paradis.",
+      "Genre": "Comédie",
+      "Realisator": "Kevin Smith"
+    },
+    {
+      "Name": "Will Hunting",
+      "Year": "1997",
+      "Pict": "https://www.imdb.com/title/tt0119217/mediaviewer/rm626881792/?ref_=tt_ov_i",
+      "Link": "https://www.imdb.com/video/vi1281211929/?playlistId=tt0119217&ref_=tt_ov_vi",
+      "Actors": ["Matt damon", "Ben Afleck"],
+      "Synopsis": "Will Hunting, un employé de ménage à M.I.T., a un don pour les mathématiques, mais a besoin de l'aide d'un psychologue pour trouver sa voie.",
+      "Genre": "Drame",
+      "Realisator": "Ben Afleck"
+    },
+    {
+      "Name": "Jay and Silent Bob reboot",
+      "Year": "2020",
+      "Pict": "https://www.bing.com/images/search?view=detailV2&ccid=cxcPGt7f&id=5C6AF112E2597D9E419ADA71A76A9414D1BBA995&thid=OIP.cxcPGt7fL3FaTWYanRbogwHaLH&mediaurl=https%3a%2f%2fbuzz.tt%2fmedia%2fposters%2f2628%2fposters_1_1500.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.73170f1adedf2f715a4d661a9d16e883%3frik%3dlam70RSUaqdx2g%26pid%3dImgRaw%26r%3d0&exph=2250&expw=1500&q=jay+and+silent+bob+reboot&simid=608002941091932893&FORM=IRPRST&ck=41F760449F5C5D2A82B34B6C2295F796&selectedIndex=7",
+      "Link": "https://www.allocine.fr/video/player_gen_cmedia=19584921&cfilm=253921.html",
+      "Actors": ["Jason Mewes", "Kevin Smith", "Rosario Dawson"],
+      "Synopsis": "Jay et Silent Bob retournent à Hollywood pour empêcher la production d'un reboot du film de super-héros Bluntman et Chronic.",
+      "Genre": "Comédie",
+      "Realisator": "Kevin Smith"
+    }
+  ]
+}
